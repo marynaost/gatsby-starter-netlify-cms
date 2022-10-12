@@ -93,7 +93,7 @@ pricing:
         - Green or roasted beans
         - Unlimited varieties
       plan: Custom
-      price: ??
+      price: "100"
     - plan: XS
       price: "20"
       description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
